@@ -1,2 +1,2 @@
 # CanvasStudentGen
-A gem file to create random canvas students
+A gem for creating random (and not so random) canvas students
